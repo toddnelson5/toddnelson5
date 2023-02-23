@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on bicep deployments and deploying with GitHub Actions.
+- 🌱 I’m currently learning, working on Azure DevOps Certification.
+
 
 <!--
 **toddnelson5/toddnelson5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
