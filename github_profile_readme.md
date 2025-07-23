@@ -59,10 +59,6 @@ I'm a passionate cloud infrastructure specialist with a focus on **Microsoft Azu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddnelson5&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddnelson5&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
