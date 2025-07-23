@@ -111,7 +111,5 @@ next_goals:
 </p>
 
 ---
-![XKCD Comic](https://xkcd-comic-api.herokuapp.com/random)
-
 ⭐️ From [toddnelson5](https://github.com/toddnelson5) - *"Automating the cloud, one deployment at a time!"*</content>
 </invoke>
