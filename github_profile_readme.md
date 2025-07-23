@@ -15,7 +15,7 @@ I'm a passionate cloud infrastructure specialist with a focus on **Microsoft Azu
 - 🌱 **Learning:** C#, Python, and advanced Terraform techniques
 - 💼 **Specializing in:** Azure Bicep templates and Infrastructure as Code
 - 🎯 **Goal:** Building automated, scalable, and secure cloud solutions
-- ⚡ **Fun fact:** I enjoy experimenting with multi-cloud deployments across Azure, AWS
+- ⚡ **Fun fact:** I enjoy experimenting with multi-cloud deployments across Azure AWS
 
 ---
 
@@ -99,11 +99,11 @@ next_goals:
 
 ---
 
-📫 **Let's connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+📫 **Let's connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toddnelson5)
 
 ---
 
-### 🎯 Fun Stats
+### 🎯 Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toddnelson5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
