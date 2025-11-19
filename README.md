@@ -1,39 +1,44 @@
+<p align="center">
+  <img src="images/header.png" width="100%" alt="Todd Nelson - Azure Solutions Architect"/>
+</p>
+
 # Hi, I'm Todd Nelson 👋  
 ### Azure Solutions Architect • Cloud Infrastructure • DevOps & Automation
 
 I design and build secure, scalable cloud architectures using Microsoft Azure.  
 My work focuses on automation, Infrastructure as Code, identity, networking,  
-and modern DevOps practices for enterprise environments.
+and enterprise DevOps practices.
 
 ---
 
-## 🔧 What I Work With
+## 🧩 Core Skills
 
-### ☁️ Cloud & Identity  
+### ☁️ Cloud & Identity
 - Azure Architecture & Governance  
-- Azure AD B2C & Entra ID  
+- Entra ID / Azure AD B2C (custom policies, SSO, API protection)  
 - Networking, Security, Storage, Compute  
-- Multi-environment enterprise deployments  
+- Multi-environment enterprise deployments
 
-### 🛠 Infrastructure as Code  
+### 🛠 Infrastructure as Code
 - **Bicep (primary)**  
 - ARM Templates  
-- Terraform (learning / expanding)  
+- Terraform (expanding)
 
-### 💻 Languages  
+### 💻 Languages & Automation
 - PowerShell  
 - Python  
-- C# (currently learning)  
+- C# (currently learning)
 
-### 🚀 DevOps & Tooling  
+### 🚀 DevOps & Tooling
 - Azure DevOps  
 - Git & GitHub  
-- CI/CD automation  
-- Containers & Docker fundamentals  
+- CI/CD pipelines  
+- Docker fundamentals  
 
 ---
 
-## 🏆 Certifications  
+## 🏆 Certifications
+
 <p align="left">
   <img src="images/azure-solutions-architect-expert-email.png" width="90">
   <img src="images/azure-security-engineer-associate-email.png" width="90">
@@ -42,33 +47,41 @@ and modern DevOps practices for enterprise environments.
   <img src="images/azure-administrator-associate-email.png" width="90">
 </p>
 
-**Currently working toward:** Azure DevOps Engineer Expert
+Currently working toward: **Azure DevOps Engineer Expert**
 
 ---
 
-## 📌 What I'm Focused On Right Now  
-- Building large-scale Bicep-driven architectures  
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **Enterprise Bicep Modules** | Modular, repeatable patterns for secure Azure deployments |
+| **Azure B2C Custom Policies** | Identity flows including SSO, ROPC, and API protection |
+| **Terraform Multi-Cloud Lab** | Experiments deploying similar architecture across Azure & AWS |
+| **Automation Toolkit** | PowerShell + Python scripts for cloud operations |
+
+*(I’ll link repos here as they become public.)*
+
+---
+
+## 🔭 What I'm Working On
+- Large-scale Bicep-driven enterprise architectures  
 - Advancing Terraform and Python for automation  
-- Improving identity flows with B2C custom policies  
-- Expanding DevOps practices and CI/CD pipelines  
-- Learning deeper C# for Azure Functions & backend integrations  
+- Custom B2C identity flows for API authentication  
+- DevOps pipeline improvements (Azure DevOps & GitHub)  
+- Deepening C# knowledge for Azure Functions  
 
 ---
 
-## 📂 Featured Work  
-These are the areas I'm most active in:
+## 📈 GitHub Activity
 
-- **Azure Bicep Templates** – end-to-end deployment patterns  
-- **Terraform Modules** – cross-cloud infrastructure experiments  
-- **Automation Scripts** – PowerShell + Python for cloud ops  
-- **Learning Projects** – hands-on C# and Python practice  
-
-*(I'll add direct repo links as I publish more projects.)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toddnelson5&show_icons=true&theme=default&hide_title=true" height="160" />
+</p>
 
 ---
 
-## 📫 Connect  
+## 📫 Connect
+
 [LinkedIn](https://linkedin.com/in/toddnelson5)
-
----
 
