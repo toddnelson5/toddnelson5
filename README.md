@@ -35,6 +35,15 @@ and enterprise DevOps practices.
 - CI/CD pipelines  
 - Docker fundamentals  
 
+## 🤝 Production Engineering Contributions
+
+Collaborating with an engineering team to deliver production bug fixes, feature enhancements, and cloud improvements.
+
+- Resolving complex application defects  
+- Contributing to Azure-based feature development  
+- Improving reliability, monitoring, and operational excellence  
+- Strengthening CI/CD and deployment workflows  
+- Partnering on architecture during active development  
 ---
 
 ## 🏆 Certifications
