@@ -2,7 +2,7 @@
   <img src="images/header.png" width="100%" alt="Todd Nelson - Azure Solutions Architect"/>
 </p>
 
-# Hi, I'm Todd Nelson 👋  
+# Hi, I'm Todd Nelson 
 ### Azure Solutions Architect • Cloud Infrastructure • DevOps & Automation
 
 I design and build secure, scalable cloud architectures using Microsoft Azure.  
@@ -11,7 +11,7 @@ and enterprise DevOps practices.
 
 ---
 
-## 🧩 Core Skills
+## Core Skills
 
 ### ☁️ Cloud & Identity
 - Azure Architecture & Governance  
@@ -19,23 +19,23 @@ and enterprise DevOps practices.
 - Networking, Security, Storage, Compute  
 - Multi-environment enterprise deployments
 
-### 🛠 Infrastructure as Code
+### Infrastructure as Code
 - **Bicep (primary)**  
 - ARM Templates  
 - Terraform (expanding)
 
-### 💻 Languages & Automation
+### Languages & Automation
 - PowerShell  
 - Python  
 - C# (currently learning)
 
-### 🚀 DevOps & Tooling
+### DevOps & Tooling
 - Azure DevOps  
 - Git & GitHub  
 - CI/CD pipelines  
 - Docker fundamentals  
 
-## 🤝 Production Engineering Contributions
+## Production Engineering Contributions
 
 Collaborating with an engineering team to deliver production bug fixes, feature enhancements, and cloud improvements.
 
@@ -46,7 +46,7 @@ Collaborating with an engineering team to deliver production bug fixes, feature 
 - Partnering on architecture during active development  
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <p align="left">
   <img src="images/azure-solutions-architect-expert-email.png" width="90">
@@ -60,7 +60,7 @@ Currently working toward: **Azure DevOps Engineer Expert**
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -73,7 +73,7 @@ Currently working toward: **Azure DevOps Engineer Expert**
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 - Large-scale Bicep-driven enterprise architectures  
 - Advancing Terraform and Python for automation  
 - Custom B2C identity flows for API authentication  
@@ -82,7 +82,7 @@ Currently working toward: **Azure DevOps Engineer Expert**
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toddnelson5&show_icons=true&theme=default&hide_title=true" height="160" />
@@ -90,7 +90,7 @@ Currently working toward: **Azure DevOps Engineer Expert**
 
 ---
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://linkedin.com/in/toddnelson5)
 
