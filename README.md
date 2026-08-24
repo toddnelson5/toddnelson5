@@ -85,7 +85,7 @@ Currently working toward: **Azure DevOps Engineer Expert**
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toddnelson5&show_icons=true&theme=default&hide_title=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=toddnelson5&theme=default&hide_border=true" height="160" alt="GitHub Streak Stats" />
 </p>
 
 ---
